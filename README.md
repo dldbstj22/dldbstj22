@@ -1,3 +1,4 @@
+<div align="center">
 
 ## 👩‍💻 About Me  
 이화여자대학교 컴퓨터공학과 22학번
@@ -14,7 +15,7 @@
 - **AIGest — 매거진팀 에디터**  
   _2024.09 ~ 2024.11_
 - **Early 알튜비튜 — 저학년 대상 학습 튜터링 강의 기획 및 진행**  
-  _2024.10
+  _2024.10_
 - **GDG On Campus Ewha — DevRel Core Member**  
   _2024.09 ~ 2025.06_
 - **한국연구재단 — R&D Frontend/AI Developer**  
@@ -36,7 +37,6 @@
 ### 🎮 [한국연구재단 R&D] AI 윤리교육 대화형 게임 플랫폼 (2025)  
 AI 관련 딜레마 상황 토론 플랫폼 및 교사용 편집 개발 툴
 
-
 ---
 
 ## 📝 Publications
@@ -46,5 +46,4 @@ AI 관련 딜레마 상황 토론 플랫폼 및 교사용 편집 개발 툴
 🔗 https://programs.sigchi.org/uist/2025/program/content/209493  
 > 인지적 갈등 기반 Peer Agent 상호작용 연구
 
-
-
+</div>
