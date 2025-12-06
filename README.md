@@ -30,7 +30,7 @@
 ## 🚀 Projects  
 
 ### WITHMATE — Google Solution Challenge (2024)  
-학교 기반 커뮤니티 매칭 및 지원 플랫폼
+상호성장을 위한 메이트 매칭 플랫폼 
 
 ### Paris Olympics — 얼굴 인식 프로젝트 (2024 Summer)  
 올림픽 선수 얼굴 데이터 기반 인식 모델 구축
